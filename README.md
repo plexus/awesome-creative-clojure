@@ -26,36 +26,28 @@ coding projects, including graphics, sound, and games.
 
 ## Game Dev
 
-### CLJC
-
-- [Quil](https://quil.info) Based on Processing
-- [play-cljc](https://github.com/oakes/play-cljc) Based on LWJGL
-- [cljbox2d](https://github.con/lambdaisland/cljbox2d) 2D physics engine, based on jBox2D (Clojure) and Planck.js (ClojureScript)
-
-### Clojure
-
-- [Play-clj](https://github.com/oakes/play-clj) Based on libGDX
-- [jme-clj](https://github.com/ertugrulcetin/jme-clj) Based on jMonkeyEngine
-- [vybe](https://github.com/pfeodrippe/vybe) A data driven game-dev framework, uses Raylib
-
-### ClojureScript
-
-- [Chocolatier](https://github.com/alexkehayias/chocolatier) opinionated game library. Pixi.js, Howler.js, Entity-component system
-- [Phzr](https://github.com/dparis/phzr) wrapper for the Phaser HTML5 game framework
-- [play-cljs](https://github.com/oakes/play-cljs)
-- [Puck](https://github.com/lambdaisland/puck)
+- [Quil](https://quil.info) Based on Processing  ![][clj] ![][cljs]
+- [play-cljc](https://github.com/oakes/play-cljc) Based on LWJGL  ![][clj] ![][cljs]
+- [cljbox2d](https://github.con/lambdaisland/cljbox2d) 2D physics engine, based on jBox2D (Clojure) and Planck.js (ClojureScript)  ![][clj] ![][cljs]
+- [Play-clj](https://github.com/oakes/play-clj) Based on libGDX  ![][clj]
+- [jme-clj](https://github.com/ertugrulcetin/jme-clj) Based on jMonkeyEngine ![][clj]
+- [vybe](https://github.com/pfeodrippe/vybe) A data driven game-dev framework, uses Raylib ![][clj]
+- [Chocolatier](https://github.com/alexkehayias/chocolatier) opinionated game library. Pixi.js, Howler.js, Entity-component system  ![][cljs]
+- [Phzr](https://github.com/dparis/phzr) wrapper for the Phaser HTML5 game framework  ![][cljs]
+- [play-cljs](https://github.com/oakes/play-cljs)  ![][cljs]
+- [Puck](https://github.com/lambdaisland/puck)  ![][cljs]
 
 ### Engines
 
 Underlying Java / JavaScript game engines, it can be interesting to look these
 over, before evaluating Clojure/ClojureScript libraries that wrap them.
 
-- [libgdx](https://libgdx.com/) Java 2D/3D
-- [lwjgl](https://www.lwjgl.org/) Java 2D/3D
-- [jaylib](https://github.com/electronstudio/jaylib) Java bindings for the popular C-based engine Raylib
-- [jMonkeyEngine](http://jmonkeyengine.org/) Java 3D
-- [pixi.js](https://www.pixijs.com/) JavaScript 2D WebGL
-- [Phaser](https://phaser.io/) JavaScript full-features framework
+- [libgdx](https://libgdx.com/) Java 2D/3D ![][java]
+- [lwjgl](https://www.lwjgl.org/) Java 2D/3D ![][java]
+- [jaylib](https://github.com/electronstudio/jaylib) Java bindings for the popular C-based engine Raylib ![][java]
+- [jMonkeyEngine](http://jmonkeyengine.org/) Java 3D ![][java]
+- [pixi.js](https://www.pixijs.com/) JavaScript 2D WebGL ![][js]
+- [Phaser](https://phaser.io/) JavaScript full-features framework ![][js]
 
 ### Resources
 
@@ -65,5 +57,9 @@ over, before evaluating Clojure/ClojureScript libraries that wrap them.
 - [Functional Game Engine Design for the Web - Alex Kehayias (Clojure/conj 2016)](https://www.youtube.com/watch?v=TW1ie0pIO_E&t=1495s)
 - [play-cljc - A new way to make games with Clojure](https://www.youtube.com/watch?v=y6WpUdECwmA)
 
+
+<!-- badge definitions -->
 [clj]: https://img.shields.io/badge/-clj-blue
 [cljs]: https://img.shields.io/badge/-cljs-yellow
+[java]: https://img.shields.io/badge/-java-red
+[js]: https://img.shields.io/badge/-js-yellow
