@@ -7,6 +7,8 @@ platforms, including JavaScript, Go, Dart, C#/.NET, and C/native.
 Its interactive programming style makes it a fantastic platform for creative
 coding projects, including graphics, sound, and games.
 
+This is an overview of some of the projects, libraries, and resources out there. Contributions welcome!
+
 ## Graphics
 
 - [Quil](https://quil.info) Graphics and animation sketches, based on Processing ![][clj] ![][cljs]
