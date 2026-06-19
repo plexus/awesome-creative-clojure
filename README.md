@@ -38,7 +38,7 @@ This is an overview of some of the projects, libraries, and resources out there.
 - [Phzr](https://github.com/dparis/phzr) wrapper for the Phaser HTML5 game framework  ![][cljs]
 - [play-cljs](https://github.com/oakes/play-cljs)  ![][cljs]
 - [Puck](https://github.com/lambdaisland/puck)  ![][cljs]
-
+- [Arcadia](https://arcadia-unity.github.io/) Arcadia is the integration of the Clojure programming language and the Unity3D game engine. It brings a live coded, functional, dynamic Lisp to the industry standard cross-platform game development tool. ![][clr]
 ### Engines
 
 Underlying Java / JavaScript game engines, it can be interesting to look these
@@ -65,3 +65,4 @@ over, before evaluating Clojure/ClojureScript libraries that wrap them.
 [cljs]: https://img.shields.io/badge/-cljs-yellow
 [java]: https://img.shields.io/badge/-java-red
 [js]: https://img.shields.io/badge/-js-yellow
+[clr]: https://img.shields.io/badge/-ClojureCLR-8A2BE2
