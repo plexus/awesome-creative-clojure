@@ -51,6 +51,10 @@ over, before evaluating Clojure/ClojureScript libraries that wrap them.
 - [pixi.js](https://www.pixijs.com/) JavaScript 2D WebGL ![][js]
 - [Phaser](https://phaser.io/) JavaScript full-features framework ![][js]
 
+### Open Source Games
+
+- [Dandy Dungeon](https://github.com/jackpal/Dandy-Dungeon) A collection of implementations of a simple 2D dungeon crawling game, has a [Clojure](https://github.com/jackpal/Dandy-Dungeon/tree/master/dandy-clojure) and [ClojureScript](https://github.com/jackpal/Dandy-Dungeon/tree/master/dandy-clojurescript) version
+
 ### Resources
 
 #### Talks
@@ -58,10 +62,6 @@ over, before evaluating Clojure/ClojureScript libraries that wrap them.
 - [Zach Oakes - Making Games at Runtime with Clojure (Clojure/conj 2014)](https://www.youtube.com/watch?v=0GzzFeS5cMc)
 - [Functional Game Engine Design for the Web - Alex Kehayias (Clojure/conj 2016)](https://www.youtube.com/watch?v=TW1ie0pIO_E&t=1495s)
 - [play-cljc - A new way to make games with Clojure](https://www.youtube.com/watch?v=y6WpUdECwmA)
-
-### Open Source Games
-
-- [Dandy Dungeon](https://github.com/jackpal/Dandy-Dungeon) A collection of implementations of a simple 2D dungeon crawling game, has a [Clojure](https://github.com/jackpal/Dandy-Dungeon/tree/master/dandy-clojure) and [ClojureScript](https://github.com/jackpal/Dandy-Dungeon/tree/master/dandy-clojurescript) version
 
 <!-- badge definitions -->
 [clj]: https://img.shields.io/badge/-clj-blue
