@@ -59,6 +59,9 @@ over, before evaluating Clojure/ClojureScript libraries that wrap them.
 - [Functional Game Engine Design for the Web - Alex Kehayias (Clojure/conj 2016)](https://www.youtube.com/watch?v=TW1ie0pIO_E&t=1495s)
 - [play-cljc - A new way to make games with Clojure](https://www.youtube.com/watch?v=y6WpUdECwmA)
 
+### Open Source Games
+
+- [Dandy Dungeon](https://github.com/jackpal/Dandy-Dungeon) A collection of implementations of a simple 2D dungeon crawling game, has a [Clojure](https://github.com/jackpal/Dandy-Dungeon/tree/master/dandy-clojure) and [ClojureScript](https://github.com/jackpal/Dandy-Dungeon/tree/master/dandy-clojurescript) version
 
 <!-- badge definitions -->
 [clj]: https://img.shields.io/badge/-clj-blue
