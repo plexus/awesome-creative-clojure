@@ -16,7 +16,10 @@ This is an overview of some of the projects, libraries, and resources out there.
 - [Iglu](https://github.com/oakes/iglu) Turning data into GLSL shaders for use by OpenGL and WebGL. By Zach Oakes, part of play-cljc. ![][clj] ![][cljs]
 - [Membrane](https://github.com/phronmophobic/membrane)  A Simple UI Library That Runs Anywhere ![][clj] ![][cljs]
 - [Clojure2D](https://github.com/Clojure2D/clojure2d) a library supporting generative coding or glitching, based on Java2D ![][clj]
+- [Eido](https://github.com/leifericf/eido) Declarative data-driven graphics  ![][clj]
+- [raycaster-demo](https://srdja.github.io/raycaster-demo/) Raycaster renderer in ClojureScript  ![][cljs]
 
+See more Clojure repositories tagged with ["graphics"](https://phronmophobic.github.io/dewey/search.html?topic=graphics)
 
 ## Sound / Music / Media
 
@@ -25,6 +28,8 @@ This is an overview of some of the projects, libraries, and resources out there.
 - [Overtone](https://github.com/overtone/overtone) Based on Supercollider ![][clj]
 - [clj-media](https://github.com/phronmophobic/clj-media) Read, write, and transform audio and video, powered by FFmpeg and clong ![][clj]
 - [cljs-bach](https://github.com/ctford/cljs-bach) WebAudio API ![][cljs]
+
+See more Clojure repositories tagged with ["sound"](https://phronmophobic.github.io/dewey/search.html?topic=sound) / ["music"](https://phronmophobic.github.io/dewey/search.html?topic=music)
 
 ## Game Dev
 
@@ -39,6 +44,9 @@ This is an overview of some of the projects, libraries, and resources out there.
 - [play-cljs](https://github.com/oakes/play-cljs)  ![][cljs]
 - [Puck](https://github.com/lambdaisland/puck)  ![][cljs]
 - [Arcadia](https://arcadia-unity.github.io/) Arcadia is the integration of the Clojure programming language and the Unity3D game engine. It brings a live coded, functional, dynamic Lisp to the industry standard cross-platform game development tool. ![][clr]
+
+See more [Clojure repositories tagged with "game"](https://phronmophobic.github.io/dewey/search.html?topic=game)
+
 ### Engines
 
 Underlying Java / JavaScript game engines, it can be interesting to look these
@@ -50,10 +58,16 @@ over, before evaluating Clojure/ClojureScript libraries that wrap them.
 - [jMonkeyEngine](http://jmonkeyengine.org/) Java 3D ![][java]
 - [pixi.js](https://www.pixijs.com/) JavaScript 2D WebGL ![][js]
 - [Phaser](https://phaser.io/) JavaScript full-features framework ![][js]
+- [Babylon.js](https://www.babylonjs.com/) JavaScript 3D engine ![][js]
 
 ### Open Source Games
 
 - [Dandy Dungeon](https://github.com/jackpal/Dandy-Dungeon) A collection of implementations of a simple 2D dungeon crawling game, has a [Clojure](https://github.com/jackpal/Dandy-Dungeon/tree/master/dandy-clojure) and [ClojureScript](https://github.com/jackpal/Dandy-Dungeon/tree/master/dandy-clojurescript) version
+- [Moon](https://github.com/damn/moon) Action RPG Game made with libgdx
+- [selfsame's Clojure games](https://itch.io/c/57995/clojure-game-dev) A collection of over a dozen games made with Arcadia
+- [The King](https://github.com/Clojure2D/clojure2d-examples/tree/master/src/games/the_king) Example game for Clojure2D
+- [aMaze](https://narimiran.github.io/amaze/) Maze crawler game, playable in the browser. Made with Quil.
+- [Wizard Masters](https://github.com/ertugrulcetin/wizard-masters) Multiplayer browser game made with ClojureScript and Babylon.js.
 
 ### Resources
 
