@@ -42,7 +42,7 @@ See more Clojure repositories tagged with ["sound"](https://phronmophobic.github
 - [Chocolatier](https://github.com/alexkehayias/chocolatier) opinionated game library. Pixi.js, Howler.js, Entity-component system  ![][cljs]
 - [Phzr](https://github.com/dparis/phzr) wrapper for the Phaser HTML5 game framework  ![][cljs]
 - [play-cljs](https://github.com/oakes/play-cljs)  ![][cljs]
-- [Puck](https://github.com/lambdaisland/puck)  ![][cljs]
+- [Puck](https://github.com/lambdaisland/puck) Wrapper for Pixi.js (somewhat outdated) ![][cljs]
 - [Arcadia](https://arcadia-unity.github.io/) Arcadia is the integration of the Clojure programming language and the Unity3D game engine. It brings a live coded, functional, dynamic Lisp to the industry standard cross-platform game development tool. ![][clr]
 
 See more [Clojure repositories tagged with "game"](https://phronmophobic.github.io/dewey/search.html?topic=game)
