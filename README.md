@@ -28,6 +28,7 @@ See more Clojure repositories tagged with ["graphics"](https://phronmophobic.git
 - [Overtone](https://github.com/overtone/overtone) Based on Supercollider ![][clj]
 - [clj-media](https://github.com/phronmophobic/clj-media) Read, write, and transform audio and video, powered by FFmpeg and clong ![][clj]
 - [cljs-bach](https://github.com/ctford/cljs-bach) WebAudio API ![][cljs]
+- [Web Audio Playground](https://clojurecivitas.org/scittle/audio/audio_playground.html) built with ClojureScript + Scittle
 
 See more Clojure repositories tagged with ["sound"](https://phronmophobic.github.io/dewey/search.html?topic=sound) / ["music"](https://phronmophobic.github.io/dewey/search.html?topic=music)
 
@@ -68,6 +69,9 @@ over, before evaluating Clojure/ClojureScript libraries that wrap them.
 - [The King](https://github.com/Clojure2D/clojure2d-examples/tree/master/src/games/the_king) Example game for Clojure2D
 - [aMaze](https://narimiran.github.io/amaze/) Maze crawler game, playable in the browser. Made with Quil.
 - [Wizard Masters](https://github.com/ertugrulcetin/wizard-masters) Multiplayer browser game made with ClojureScript and Babylon.js.
+- [Galaga - ClojureScript & Scittle](https://clojurecivitas.org/scittle/games/galaga.html)
+- [Asteroids - ClojureScript & Scittle](https://clojurecivitas.org/scittle/games/asteroids_article.html)
+- [Memory Game - ClojureScript & Scittle](https://clojurecivitas.org/scittle/games/memory_game_article.html)
 
 ### Resources
 
