@@ -72,6 +72,9 @@ over, before evaluating Clojure/ClojureScript libraries that wrap them.
 - [Galaga - ClojureScript & Scittle](https://clojurecivitas.org/scittle/games/galaga.html)
 - [Asteroids - ClojureScript & Scittle](https://clojurecivitas.org/scittle/games/asteroids_article.html)
 - [Memory Game - ClojureScript & Scittle](https://clojurecivitas.org/scittle/games/memory_game_article.html)
+- [Raylib - Clojure](https://raylib-clj.b12n.app) - Port of Raylib examples to Clojure
+- [Raylib - Jolt](https://raylib-jlt.b12n.app) - Port of Raylib examples to Jolt
+- [Raylib - Jank](https://raylib-jnk.b12n.app) - Port of Raylib examples to Jank
 
 ### Resources
 
