@@ -75,6 +75,7 @@ over, before evaluating Clojure/ClojureScript libraries that wrap them.
 - [Raylib - Clojure](https://raylib-clj.b12n.app) - Port of Raylib examples to Clojure
 - [Raylib - Jolt](https://raylib-jlt.b12n.app) - Port of Raylib examples to Jolt
 - [Raylib - Jank](https://raylib-jnk.b12n.app) - Port of Raylib examples to Jank
+- [2048](https://github.com/Schroedingberg/2048) - A very simple implementation of [2048](https://en.wikipedia.org/wiki/2048_(video_game)), optimized for short code to serve as a learning resource
 
 ### Resources
 
